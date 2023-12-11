@@ -1,6 +1,6 @@
 # From 2D to 3D: Re-thinking Benchmarking of Monocular Depth Prediction
 
-This directory consists of 3D point cloud metrics for evaluating monocular depth prediction proposed in [From 2D to 3D: Re-thinking Benchmarking of Monocular Depth Prediction](https://arxiv.org/pdf/2111.14673.pdf):
+This directory consists of 3D point cloud metrics for evaluating monocular depth prediction proposed in [From 2D to 3D: Re-thinking Benchmarking of Monocular Depth Prediction](https://arxiv.org/abs/2203.08122):
 
 - Chamfer distance
 - IoU
