@@ -24,9 +24,9 @@ We also provide the point cloud utilization functions and commonly used 2D and i
 If you use proposed 3d metrics in monodepth evaluation or wish to refer our arxiv paper, please cite
 ```
 @article{ornek2022from2dto3d,
+  title={From {{2D}} to {{3D}}: Re-thinking Benchmarking of Monocular Depth Prediction},
   author={{\"O}rnek, Evin P{\i}nar and Mudgal, Shristi and Wald, Johanna and Wang, Yida and Navab, Nassir and Tombari, Federico},
-title={From 2D to 3D: Re-thinking Benchmarking of Monocular Depth Prediction},
-  year = {2022},
-  journal={arXiv:2203.08122}
+  journal={arXiv preprint arXiv:2203.08122},
+  year={2022}
 }
 ```
